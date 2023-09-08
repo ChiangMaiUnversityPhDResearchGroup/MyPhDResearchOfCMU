@@ -1,10 +1,11 @@
 From August
 
-1. Write a research proposal
+1. TODO: Write a research proposal
    PPT:
-2. Write a abstract of your paper
+   
+2. TODO: Write a abstract of your paper
    template
-3. Daily literature review example
+3. TODO: Daily literature review example
    template
-4. A defense simulation ppt
+4. TODO: A defense simulation ppt
    a ppt template
