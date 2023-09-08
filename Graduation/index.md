@@ -18,6 +18,23 @@ https://www.xiaohongshu.com/explore/620fbb85000000000102d902?app_platform=androi
 
 ### Free English training
 + https://drive.google.com/file/d/1NUlbP3tb3C8JnJQFZUhMYKGJBHJ2_D1O/view
++ Test venue: Language Institute Chiang Mai University Building (LICMU)
+
+Test Time: Morning Session: 9:15 am. – 12.00 pm.
+
+***Test takers must arrive at the test room at least 30 minutes before the scheduled test time. ***
+
+ 
+
+Please prepare the following items to present to our staff on the test date:
+
+1.       Receipt or Application Confirmation Email
+
+2.       ID card or Passport 
+
+3.       Student card (if any)
+
+4.       2B Pencil and Eraser
 
 
 
@@ -27,7 +44,8 @@ https://www.xiaohongshu.com/explore/620fbb85000000000102d902?app_platform=androi
 
 ICDI找老师R预约，时间是每年9月QE，10月RP
 
-## Follow the 891,892,893,898
+
+## 3.Follow the 891,892,893,898
 ![](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202309080936418.png)
 
 
@@ -60,3 +78,20 @@ Short course training
 Dissertation reports 
 
 Application for graduation
+
+## Other information
+Professors: https://www.cmu.ac.th/en/faculty/international_college_and_digital_innovation/aboutus/head
+
+
+## My Daily Log
+
+9-8
+1. Booking 9-20 eTEGS, pay 500 
+preparing for this in these two weeks
+2. Talked with Looked, get a suitable advisor
+   Tomorrow in ICDI
+   Sended my craft RP, waiting for answer
+
+3. Read ITP book
+   From HF
+4. 
