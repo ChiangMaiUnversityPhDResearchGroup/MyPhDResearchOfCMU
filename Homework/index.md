@@ -1,11 +1,17 @@
 From August
 
-1. TODO: Write a research proposal
+1. ## TODO: Write a research proposal
+2. Draft: finished 
+3. 
    PPT:
-   
-2. TODO: Write a abstract of your paper
+
+4. ## TODO: Write a abstract of your paper
    template
-3. TODO: Daily literature review example
+5. ## TODO: Daily literature review example
    template
-4. TODO: A defense simulation ppt
+
+   ## QE
+   [QE.md](../Research/QE.md)
+
+6. ## TODO: A defense simulation ppt
    a ppt template
