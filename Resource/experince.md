@@ -33,3 +33,15 @@
 1. Read the literature with questions in mind, not line by line.
 2. Read the conclusion first and then read the abstract
 3. annotate as you read, so that you can quickly go back to it later.
+
+## Thinking depth
+1. 读懂，通过记忆复述概要
+2. 能分离主观和客观观点，还没有独立思考
+3. 有独立思考和批判思维，但缺乏深度
+4. 能剖析逻辑，建立自己的思考方式
+
+----
+1. reads and understands, repeats summaries from memory
+2. can separate subjective and objective points of view, not yet independent thinking
+3. thinks independently and critically, but lacks depth
+4. can analyze logic and develop his/her own way of thinking
