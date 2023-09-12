@@ -81,6 +81,7 @@ Application for graduation
 
 ## Other information
 Professors: https://www.cmu.ac.th/en/faculty/international_college_and_digital_innovation/aboutus/head
+https://www.icdi.cmu.ac.th/About/AcademicStaff.aspx
 
 
 ## My Daily Log
@@ -94,4 +95,7 @@ preparing for this in these two weeks
 
 3. Read ITP book
    From HF
-4. 
+9-12
+1. launch the first PhD Daily conference(Weekly), forget to record...
+2. Next time will hold on zoom or tencent and record and share to all classmates.
+3. 
