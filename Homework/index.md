@@ -1,9 +1,9 @@
 From August
 
 1. ## TODO: Write a research proposal
-2. Draft: finished 
+   Draft: finished 
+2. [888891 homework](../888891.md)
 3. 
-   PPT:
 
 4. ## TODO: Write a abstract of your paper
    template
@@ -13,5 +13,5 @@ From August
    ## QE
    [QE.md](../Research/QE.md)
 
-6. ## TODO: A defense simulation ppt
+6. ## TODO: A defense mock ppt
    a ppt template
