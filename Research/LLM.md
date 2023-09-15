@@ -1,15 +1,28 @@
+# YAChatDoc
+It means Yet Another ChatDoc.
+I am a PhD of CMU(Chiang Mai University) ICDI, I have many many papers to read to learn the history and the cutting edge industry.
+There's a huge amount of work that goes into this.
+Lucky for us, we have AI like this:
+![](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202309150952597.png)
+But..., it is expensive for most of PhD students.
+So, I want to create a cheap one for us.
+---------
+Sorry for part of information is Chinese. You can translate into your language. 
+[See English Version](LLM-en.md)
+---------
+## Result of chat with bard.google.com
 假设你是AI领域的博士，需要你完成一份对当前（2023）为止，所有已经开源了的大型语言模型的分析文档，包括名称，研发组织，性能参数，github url，以及相互之间供对比评价，请尝试完成
 
 
 好的，我来尝试完成一份对当前（2023）为止，所有已经开源了的大型语言模型的分析文档。
 
-## 大型语言模型（LLM）概述
+### 大型语言模型（LLM）概述
 
 大型语言模型（LLM）是一种人工智能（AI）模型，在大量文本和代码数据集上进行训练。它们可以用于各种任务，包括生成文本、翻译语言和编写不同类型的创意内容。
 
 LLM 在过去几年里取得了长足的进步，其性能已经接近或超过了人类水平。这使得它们在各种应用中具有潜在的巨大价值。
 
-## 2023年开源的LLM
+### 2023年开源的LLM
 
 2023年，有许多新的 LLM 被开源。以下是一些值得注意的例子：
 
@@ -22,7 +35,7 @@ LLM 在过去几年里取得了长足的进步，其性能已经接近或超过�
 - **h2oGPT**：由 H2O.ai 开发，参数量为 1.37T。
 - **FastChat-T5**：由 Google AI 开发，参数量为 1.3B。
 
-## LLM 性能参数
+### LLM 性能参数
 
 LLM 的性能通常用参数量、数据集大小和训练时间来衡量。
 
@@ -30,7 +43,7 @@ LLM 的性能通常用参数量、数据集大小和训练时间来衡量。
 - **数据集大小**：LLM 的数据集大小是指模型在训练过程中使用的文本和代码数据集的大小。数据集越大，模型可以学习到更全面的语法和词汇知识。
 - **训练时间**：LLM 的训练时间是指模型从零开始训练到达到所需性能所需的时间。训练时间越长，模型的性能越好。
 
-## LLM 相互比较
+### LLM 相互比较
 
 根据上述性能参数，我们可以对 2023 年开源的 LLM 进行相互比较。
 
@@ -47,11 +60,11 @@ LLM 的性能通常用参数量、数据集大小和训练时间来衡量。
 
 从表中可以看出，SAIL 7B 在参数量和数据集大小方面处于领先地位，但训练时间也最长。Guanaco 和 MPT-7B 在参数量和训练时间方面与 SAIL 7B 相当，但数据集大小稍小。RMKV 在参数量和数据集大小方面与 Guanaco 和 MPT-7B 相当，但训练时间稍短。OpenLLaMa 和 RedPajama-INCITE 是 SAIL 7B 的开源复制版本，参数量和数据集大小与 SAIL 7B 相同。h2oGPT 和 FastChat-T5 是参数量最大的 LLM，但训练时间也最长。
 
-## 总结
+### 总结
 
 2023 年，有许多新的 LLM 被开源。这些模型在参数量、
 
------
+## Dev Plan
 
 如果我作为一名AI博士，有一个idea，想要开发一个能够本地运行，对性能要求不高，但是对本地LLM可以通过提供训练的方式不断提升对某个领域的认知，如果提供一本科研著作或者文章的pdf资料让LLM学习，学习后我可以通过本地互动提问的方式，来去快速的了解该科研著作的概述、方法、结论等书籍或者文章的内容信息，针对上述idea，结合你对上述LLM大型语言模型的了解和认知，你认为哪种技术方案更加快速的开发和搭建此系统？
 
@@ -78,27 +91,7 @@ LLM 的性能通常用参数量、数据集大小和训练时间来衡量。
 
 通过这些建议，可以进一步提高系统的性能和可扩展性。
 
-
-
-share
-
-用 Google 搜索
-
-more_vert
-
-
-
-![个人资料照片](https://lh3.googleusercontent.com/a/ACg8ocJlwIT2QUdjn_gulzZcomCN48btnmkzlwgExkHbOZ2lfjs=s64)
-
-## 好的，非常感谢这些宝贵建议，那如果从工程开发角度，请提供相关的帮助，例如如何开始，从那里获得模型，如何编译，使用哪些语言开发，是否有类似的demo可供参考呢
-
-edit
-
-查看其他草稿
-
-volume_up
-
-![img](https://www.gstatic.com/lamda/images/sparkle_resting_v2_1ff6f6a71f2d298b1a31.gif)
+### Dev steps
 
 好的，以下是一些工程开发方面的建议：
 
@@ -163,3 +156,10 @@ content_copy
 ```
 
 您可以根据自己的需求来修改这个示例。
+
+## My plan
+1. Talking with our PhD students this plan
+2. Recruiting for development and product roles
+3. Make a Roadmap and milestone for this
+4. Setting a BiWeekly meeting for this project
+5. Let's do it!
