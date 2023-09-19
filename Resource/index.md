@@ -18,7 +18,8 @@ https://www.radboudumc.nl/getmedia/50a4f62d-0860-4aef-85dc-f475a29bd1d0/RIMLS_Ma
 3. AI read papers: https://sharly.ai/，https://chatdoc.com/
 4. free paper everyday: https://chatwithpaper.org/ (HF contribution)
 5. https://elicit.com/?workflow=table-of-papers, find the papers with what you are thinking and researching
-6. https://consensus.app/home/blog/welcome-to-consensus/, Get your search result with Q&A mode 
+6. https://consensus.app/home/blog/welcome-to-consensus/, Get your search result with Q&A mode , add a video link:Introduction to Bibliometric Analysis with VOSviewer
+ https://youtu.be/yYJTS1WUpvU   
 
 ## Meetings
  [9-12](../meetings.md)
@@ -29,3 +30,4 @@ https://www.radboudumc.nl/getmedia/50a4f62d-0860-4aef-85dc-f475a29bd1d0/RIMLS_Ma
 + [Thai-languae-learning](Thai-languae-learning.md)
 + [Academic experince](experince.md)
 + [Literaturereview](LiteratureReview.md)
++ 
