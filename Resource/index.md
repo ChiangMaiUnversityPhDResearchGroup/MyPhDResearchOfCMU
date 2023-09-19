@@ -24,8 +24,8 @@ https://www.radboudumc.nl/getmedia/50a4f62d-0860-4aef-85dc-f475a29bd1d0/RIMLS_Ma
  [9-12](../meetings.md)
 
 ## Notes
-[CryptoBasic](CryptoBasic.md)
-[AA-SDK-collection](AA-SDK-collection.md)
-[Thai-languae-learning](Thai-languae-learning.md)
-[Academic experince](experince.md)
-[Literaturereview](LiteratureReview.md)
++ [CryptoBasic](CryptoBasic.md)
++ [AA-SDK-collection](AA-SDK-collection.md)
++ [Thai-languae-learning](Thai-languae-learning.md)
++ [Academic experince](experince.md)
++ [Literaturereview](LiteratureReview.md)
