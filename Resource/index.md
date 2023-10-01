@@ -8,9 +8,6 @@ https://www.radboudumc.nl/getmedia/50a4f62d-0860-4aef-85dc-f475a29bd1d0/RIMLS_Ma
    https://redacaocientifica.weebly.com/uploads/6/0/2/2/60226751/science_writing_for_non-native_engish_speakers.pdf
 3. 
 
-   
-
-
 ## Tools
 1. https://arxivxplorer.com/?query=social+network+computing+sybil+attack, a AI blur search for arxiv.org, free
    ![](https://raw.githubusercontent.com/jhfnetboy/MarkDownImg/main/img/202309131122089.png)
@@ -21,8 +18,9 @@ https://www.radboudumc.nl/getmedia/50a4f62d-0860-4aef-85dc-f475a29bd1d0/RIMLS_Ma
 6. https://consensus.app/home/blog/welcome-to-consensus/, Get your search result with Q&A mode 
 7. https://www.vosviewer.com/, network relation graph
 8. TexStudio,https://www.texstudio.org/ latex editor
-9. https://mathpix.com/desktop-downloads   AI-powered changge image to mathematical formula
-10. 
+9. https://mathpix.com/desktop-downloads   AI-powered changge image to mathematical formula 
+10. add a video link:Introduction to Bibliometric Analysis with VOSviewer
+ https://youtu.be/yYJTS1WUpvU   
 
 ## Meetings
  [9-12](../meetings.md)
@@ -33,3 +31,4 @@ https://www.radboudumc.nl/getmedia/50a4f62d-0860-4aef-85dc-f475a29bd1d0/RIMLS_Ma
 + [Thai-languae-learning](Thai-languae-learning.md)
 + [Academic experince](experince.md)
 + [Literaturereview](LiteratureReview.md)
++ 
