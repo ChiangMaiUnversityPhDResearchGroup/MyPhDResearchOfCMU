@@ -1,4 +1,4 @@
-## .phrasebank
+## Phrasebank
 Paper constructions:
 Introduction
 literature review

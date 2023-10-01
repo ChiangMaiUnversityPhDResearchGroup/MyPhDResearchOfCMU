@@ -85,7 +85,7 @@ Professors: https://www.cmu.ac.th/en/faculty/international_college_and_digital_i
 https://www.icdi.cmu.ac.th/About/AcademicStaff.aspx
 
 
-## My Daily Log
+## My ~~Daily~~ Weekly Log
 
 9-8
 1. Booking 9-20 eTEGS, pay 500 
@@ -96,7 +96,11 @@ preparing for this in these two weeks
 
 3. Read ITP book
    From HF
+
 9-12
 1. launch the first PhD Daily conference(Weekly), forget to record...
 2. Next time will hold on zoom or tencent and record and share to all classmates.
-3. 
+
+9-26
+1. Waiting for the eTEGs result
+2. Working on mock slides

@@ -19,6 +19,10 @@ https://www.radboudumc.nl/getmedia/50a4f62d-0860-4aef-85dc-f475a29bd1d0/RIMLS_Ma
 4. free paper everyday: https://chatwithpaper.org/ (HF contribution)
 5. https://elicit.com/?workflow=table-of-papers, find the papers with what you are thinking and researching
 6. https://consensus.app/home/blog/welcome-to-consensus/, Get your search result with Q&A mode 
+7. https://www.vosviewer.com/, network relation graph
+8. TexStudio,https://www.texstudio.org/ latex editor
+9. https://mathpix.com/desktop-downloads   AI-powered changge image to mathematical formula
+10. 
 
 ## Meetings
  [9-12](../meetings.md)
