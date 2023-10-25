@@ -10,14 +10,17 @@ I think if human kind would be keeping evolution, someone must devote into resea
 So, research is a exploring for unknown answers in the universe,in our life, world, try to explain something. 
 It is Philosophy for human kind.
 
-We must have some correct ways to explore and find the answer to verify for the world,to get a repeatable and verifiable result.
+We must have some correct ways to explore and find the answer to verify for the world,to get a repeatable and verifiable result with method.
 So, it is a scientific methodological process.
+And for me, I want find some TRUE questions for human, like the advertisement, I think it is unfair for normals, so I don't set my focus on improve the advertisement technology, but try to find something to replace the advertisement. Sometimes I call this Innovation or Destructive Innovation.
 
 
-For me, I would choose reading and researching for my left life, it is calm, it is full of energy when I try to find some solutions or answers in the knowledge ocean. It my life, my choice, it is fun for me.
+For my doctoral study, I will try to explore in some narrow areas like Improve the private key keeping method to protect the normals digital asset
+
+In a long time, I would choose reading and researching for my left life, it is calm, it is full of energy when I try to find some solutions or answers in the knowledge ocean. It my life, my choice, it is fun for me.
 The happiness in researching is much better and more sustainable than entertainments or drinking, eating and something else, for me.
 
-So, research is a life style for us.
+So, research is a life style for me.
 
 ------
 
@@ -31,6 +34,8 @@ And then trying to identify specific questions with innovations and give solutio
 
 
 ## ● How different between Ph.D.research and other researches 
+I have 3-4 years to spend on researching, with advisor's guidance and training.
+It is important for me in my research life.
 Find what you are truly passionate about and have fun with it.
 Learn how to be a researcher on basic skills: quantitative analysis, methodology and more.
 Try to build a mindset of cross area thinking.
@@ -59,4 +64,6 @@ And we will build a community network to test the academic model, and run it int
 ## ● Research opportunities in Digital?
 
 ## ● Own Thesis Case study
+ZKP to improve the privacy and security in consensus network.
+
 
