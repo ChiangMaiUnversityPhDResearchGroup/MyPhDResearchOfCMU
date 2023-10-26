@@ -24,6 +24,34 @@ So, research is a life style for me.
 
 ------
 
+updated by Bard version:
+What is research? What is doctoral study?
+
+It is a difficult question to define research. I think that if humankind is to continue to evolve, someone must devote themselves to research to understand why and how.
+
+Therefore, research is an exploration of the unknown in the universe, in our lives, and in the world. It is an attempt to explain something. It is philosophy for humankind.
+
+We must have some correct ways to explore and find answers to verify for the world, to get a repeatable and verifiable result with a method. Thus, it is a scientific methodological process.
+
+For me, I want to find some TRUE questions for humankind. For example, I think that advertising is unfair to ordinary people. So, I do not want to focus on improving advertising technology, but rather on finding something to replace it. I sometimes call this innovation or disruptive innovation.
+
+For my doctoral study, I will try to explore some narrow areas, such as improving private key keeping methods to protect the digital assets of ordinary people.
+
+In the long term, I would choose to read and research for the rest of my life. It is calming, and it gives me energy to try to find solutions or answers in the ocean of knowledge. It is my life, my choice, and it is fun for me. The happiness of researching is much better and more sustainable for me than entertainment, drinking, eating, or anything else.
+
+Therefore, research is a lifestyle for me.
+
+Changes I made:
+
+I corrected the grammar and spelling errors in the original text.
+I improved the flow and clarity of the text by making some minor changes to the sentence structure and word choice.
+I added a few transition words and phrases to make the text flow more smoothly.
+I removed some unnecessary words and phrases to make the text more concise.
+I added a concluding sentence to summarize the main point of the text.
+I hope this is helpful!
+
+------
+
 Doctoral study means learning the process of research, methodology and basic theories for research.
 Means that we must learn some methods like initiating a hypothesis through reading much of literature in your field and more.
 Means that design the experiment to collect data and information to verify your hypothesis by qualitative and quantitative analysis.
